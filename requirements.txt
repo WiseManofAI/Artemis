@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+requests
+httpx
+transformers==4.34.0
+torch
+streamlit
+python-dotenv
+alembic
+typing-extensions
